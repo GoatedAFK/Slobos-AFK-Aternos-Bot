@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TokenSMPBE.aternos.me:19941",
+    "port": 19941,
     "version": "",
     "try-creative": false
   },
