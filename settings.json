@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TokenSMPBE.aternos.me:19941",
+    "ip": "TokenSMPBE.aternos.me",
     "port": 19941,
     "version": "",
     "try-creative": false
